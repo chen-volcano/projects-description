@@ -1,1 +1,2 @@
-# VTON-Garment
+# Virtual try-on-based garment-selling platform
+
