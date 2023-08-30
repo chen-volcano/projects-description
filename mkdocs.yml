@@ -2,4 +2,7 @@ site_name: Chen`s projects
 
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
 
