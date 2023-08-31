@@ -1,2 +1,0 @@
-# VTON-Garment
-
