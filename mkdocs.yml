@@ -37,8 +37,3 @@ nav:
       - Sorting: Blog/Algorithm/sorting.md
     - Front-end:
       - JavaScript: Blog/Front-end/javascript.md
-  - VITON-GSP:
-    - Introduction: VTON-GSP/Introduction.md
-    - Virtual Try-on: VTON-GSP/VTON.md
-  - 鞋厂ERP:
-    - 简介: 鞋厂ERP/Introduction.md
