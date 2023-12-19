@@ -4,8 +4,7 @@
 
 ## Purpose
 
-This blog is mainly used to enhance my understanding of learning and for reference when I forget. 
-I would be happy if my blog helped you.
+This blog primarily serves to enhance my understanding of learning and act as a reference when I forget. I would be delighted if my blog also proves helpful to you.
 
 ## Requirement
 1. Academic Integrity
